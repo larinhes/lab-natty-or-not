@@ -20,29 +20,31 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# "Otto, a lontra corajosa"
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+"Otto, a lontra corajosa" é um ebook criado para ser lido por crianças de 5 à 10 anos com o intuito de que elas reflitam sobre suas próprias inseguranças e encontrem acolhimento para que possam lidar com isso. Na história, a lontra Otto se sente inseguro ao se comparar a outras lontras, pois ele tem uma cauda menor do que lontras comuns e, assim, constantemente se sente desajeitado em brincadeiras aquáticas, a ponto de se comparar aos outros e se entristecer. Na jornada de Otto, nos deparamos com a coragem de agir apesar das inseguranças e, sobretudo, contar com amigos para alcançar um final feliz. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Escrita do ebook: Chat GPT e Gemini (utilizando o melhor que considerei de cada um e passando a história constantemente de uma IA à outra).
+- Imagens criadas utilizando Leonardo AI e IA disponibilizada no Canva.
+- Diagramação do ebook feita pelo Canva, utilizando template disponível de ebook.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- Para criação do roteiro, realizei um prompt elaborado com uma ideia prévia que criei de como eu gostaria que fosse minha história (faixa étaria que a história se destina, ambientação - defini que toda história se passaria em ambiente marinho, característica dos personagens - todos seriam animais marinhos, nome de personagem principal (Otto), definição de que ele teria insegurança com alguma característica própria e que a história envolveria uma aventura que o faria acreditar em si mesmo, assim como perceber a importância de contar com amigos; além de definir que o personagem iria refletir sobre lidar com sua insegurança, mas que ainda poderia se sentir inseguro outras vezes, como qualquer pessoa (lontra). O prompt, então, foi utilizando tanto no Chat GPT quanto no Gemini. 
+- Pedi ao ChatGPT para, quando finalizei o roteiro, separar por seções ---. 
+- Ferramentas para arrumar alguns defeitos de imagens geradas - Canva (utilizando de borracha mágica + ferramenta de aumentar imagem).
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Foi desafiador, sobretudo para mexer com ilustrações de IA, como me propus; tive que alterar minha ideia de história inicial porque a IA ainda não conseguia fazer algo tão exato quanto o que eu gostaria (mudei o personagem de um Polvo com poucos tentáculos para uma Lontra). Além disso, precisei me atentar a muitos detalhes, mesmo na escrita, para que o roteiro não ficasse puramente genérico. Por exemplo, utilizei do meu conhecimento enquanto psicóloga infantojuvenil para garantir que a história não seria sobre "nunca mais sentir insegurança", mas ambas IAS inicialmente me levaram até isso. Percebi que trabalhando juntos, fazendo ajustes, podemos criar trabalhos bastante legais. Com essa atividade, pude desenvolver ainda mais minha critividade e ter novas ideias para livros e temas que quero trabalhar enquanto escritora - percebendo que a IA pode me ajudar também nisso. Me propus a, dessa vez, criar um ebook de formas que eu interifesse menos, apesar de ainda interferir bastante, para cumprir o projeto como algo mais desenvolvido pelas IA que trabalhei mas, nessa construção de ir interferindo retirando e colocando ideias, ajustando prompts, a IA foi mais uma ferramenta para deixar algo mais parecido com algo que eu já faço, mas de maneira mais rápida. Pretendo aprender muito mais daqui pra frente. 
 ```
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- Me baseei em livros e desenhos infantis num geral (que utilizam de animais para contar histórias) e na ideia de trabalhar com sentimentos; como por exemplo, o livro Como eu me sinto: Quando tenho medo (Cornelia Maude Spelman).
 
 ## Links Interessantes
 
